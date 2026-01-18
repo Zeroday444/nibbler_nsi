@@ -1,1 +1,6 @@
 test du pull
+
+git status
+git add .
+git commit -m "Ajout collisions et déplacement"
+git push
